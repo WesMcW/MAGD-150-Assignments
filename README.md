@@ -1,4 +1,4 @@
-## Welcome to my MAGD-150 Assignmnts ʘ‿ʘ
+## ☺ Welcome to my MAGD-150 Assignmnts ☺
 
 
 You can use the [editor on GitHub](https://github.com/WesMcW/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
