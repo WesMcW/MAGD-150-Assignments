@@ -1,4 +1,4 @@
-## ☺ Welcome to my MAGD-150 Assignmnts ☺
+# ☺ Welcome to my MAGD-150 Assignmnts ☺
 
 These are a few of the works I have made while in my Media Arts and Game Development class.
 
