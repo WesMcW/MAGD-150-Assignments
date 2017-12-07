@@ -1,7 +1,6 @@
 ## ☺ Welcome to my MAGD-150 Assignmnts ☺
 
-
-You can use the [editor on GitHub](https://github.com/WesMcW/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+These are the works I have made while in my Media Arts and Game Development class.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
