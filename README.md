@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 # ☺ Welcome to my MAGD-150 Assignments ☺
 
 These are a few of the works I have made while in my Media Arts and Game Development class.
