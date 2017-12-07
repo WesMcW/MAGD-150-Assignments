@@ -1,8 +1,9 @@
 ## ☺ Welcome to my MAGD-150 Assignmnts ☺
 
-These are the works I have made while in my Media Arts and Game Development class.
+These are a few of the works I have made while in my Media Arts and Game Development class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### •Buildings 
+      This is the first project I created, and it is a night skyline of a city using only a grayscale color scheme.
 
 ### Markdown
 
