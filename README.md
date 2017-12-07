@@ -13,3 +13,6 @@ These are a few of the works I have made while in my Media Arts and Game Develop
       In this project it depicts the inside of a snowglobe, with a snowman standing in the center atop of a hill.
       With lots of little snowflakes whirling around him.
 
+### •[_Type_](https://github.com/WesMcW/MAGD-150-Assignments/blob/gh-pages/Type/Type.pde).
+      This is my project of a movie poster. When started up the program askes for the users name, once entered the
+      screen then changes to show a movie poster withe the leading role of the name entered.
